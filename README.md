@@ -1,4 +1,5 @@
 REMIX DEFAULT WORKSPACE
+![Uploading Screenshot (541).png…]()
 
 Remix default workspace is present when:
 i. Remix loads for the very first time 
