@@ -1,5 +1,6 @@
 REMIX DEFAULT WORKSPACE
-![Uploading Screenshot (541).png…]()
+<img width="1920" height="1080" alt="Screenshot (541)" src="https://github.com/user-attachments/assets/82923f65-73f1-4303-8fa1-9deeaf362ba8" />
+
 
 Remix default workspace is present when:
 i. Remix loads for the very first time 
